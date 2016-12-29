@@ -10,12 +10,10 @@
 
 import UIKit
 
-
-
+var coin = 100
 
 class ViewController: UIViewController {
     
-    var coin = 100
     var countNum = 0
     var timerRunning = false
     var timer = Timer()
