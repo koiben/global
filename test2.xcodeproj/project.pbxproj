@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		52B4B25A1E4EE2D000AE9E7A /* image3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52B4B2591E4EE2D000AE9E7A /* image3.jpg */; };
 		DBBB0FAC1E14FA4E00BD73A8 /* second.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBB0FAB1E14FA4E00BD73A8 /* second.swift */; };
 		E71DAFE41DB1ECA900D20A99 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E71DAFE31DB1ECA900D20A99 /* AppDelegate.swift */; };
 		E71DAFE61DB1ECA900D20A99 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E71DAFE51DB1ECA900D20A99 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		52B4B2591E4EE2D000AE9E7A /* image3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image3.jpg; sourceTree = "<group>"; };
 		DBBB0FAB1E14FA4E00BD73A8 /* second.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = second.swift; sourceTree = "<group>"; };
 		E71DAFE01DB1ECA900D20A99 /* test2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E71DAFE31DB1ECA900D20A99 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 			children = (
 				E71DAFE31DB1ECA900D20A99 /* AppDelegate.swift */,
 				E71DAFE51DB1ECA900D20A99 /* ViewController.swift */,
+				52B4B2591E4EE2D000AE9E7A /* image3.jpg */,
 				E71DAFE71DB1ECA900D20A99 /* Main.storyboard */,
 				DBBB0FAB1E14FA4E00BD73A8 /* second.swift */,
 				E71DAFEA1DB1ECA900D20A99 /* Assets.xcassets */,
@@ -238,6 +241,7 @@
 				E71DAFEE1DB1ECA900D20A99 /* LaunchScreen.storyboard in Resources */,
 				E71DAFEB1DB1ECA900D20A99 /* Assets.xcassets in Resources */,
 				E71DAFE91DB1ECA900D20A99 /* Main.storyboard in Resources */,
+				52B4B25A1E4EE2D000AE9E7A /* image3.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
