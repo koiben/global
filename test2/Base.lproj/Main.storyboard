@@ -98,10 +98,6 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="image3.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="zZD-mM-v1i">
-                                <rect key="frame" x="67" y="176" width="240" height="128"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
@@ -114,7 +110,4 @@
             <point key="canvasLocation" x="78" y="840"/>
         </scene>
     </scenes>
-    <resources>
-        <image name="image3.jpg" width="220" height="293"/>
-    </resources>
 </document>
